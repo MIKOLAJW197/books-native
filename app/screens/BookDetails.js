@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import { ActivityIndicator } from 'react-nativeó'
+import { ActivityIndicator } from 'react-native'
 import { Text, View } from "native-base";
 import axios from "axios";
 

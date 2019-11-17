@@ -26,7 +26,7 @@ const BookSearchResults = ({ navigation }) => {
                 square
                 source={item.volumeInfo.imageLinks ?
                     { uri: item.volumeInfo.imageLinks.smallThumbnail }
-                    : require('/assets/icon.png')}>
+                    : require('../../assets/icon.png')}>
             </Thumbnail>
             <Body>
                 <Text>
