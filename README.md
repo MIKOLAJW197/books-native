@@ -13,7 +13,7 @@ npm install -g expo-cli
 ```
 
 ```
-git clone https://github.com/MIKOLAJW197/armybazar--scraper-api.git
+git clone https://github.com/MIKOLAJW197/books-native.git
 npm install
 expo start
 ```
